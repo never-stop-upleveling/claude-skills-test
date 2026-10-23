@@ -1,0 +1,13 @@
+{
+  "name": "idata-test-marketplace",
+  "owner": {
+    "name": "Brian Tam"
+  },
+  "plugins": [
+    {
+      "name": "idata-core-skills",
+      "source": "./plugins/idata-core-skills",
+      "description": "Test SQL and reporting skills for Purdue IDATA"
+    }
+  ]
+}
